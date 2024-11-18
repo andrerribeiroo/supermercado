@@ -10,9 +10,9 @@ const Login = () => (
 
     <Container style={{background: "white" , padding: "20px" , borderRadius: "10px" , boxShadow: "0 0 10px rgba(0,0 0.2)"}}>
     
-      <h1 style={{fontSize: "100px" , color:"gray" , textShadow: "black 0px 0px 55px" }}>Login</h1>
+      <h1 style={{fontSize: "100px" , color:"black" , textShadow: "black 0px 0px 55px" }}>Login</h1>
 
-      <span style={{fontSize: "150px" , color:"black" , margin: "20px"}} className="material-symbols-outlined">account_circle</span>
+      <span style={{fontSize: "100px" , color:"black" , margin: "20px"}} className="material-symbols-outlined">account_circle</span>
 
       {/* Caixinha de Email */}
 
